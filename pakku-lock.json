@@ -2782,6 +2782,48 @@
             ]
         },
         {
+            "pakku_id": "osepiYfzZWvTv56x",
+            "pakku_links": [
+                "OjsYMehqACUhUBxE"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-connected"
+            },
+            "name": {
+                "curseforge": "Create: Connected"
+            },
+            "id": {
+                "curseforge": "947914"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_connected-1.1.10-mc1.20.1-all.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7251/637/create_connected-1.1.10-mc1.20.1-all.jar",
+                    "id": "7251637",
+                    "parent_id": "947914",
+                    "hashes": {
+                        "sha1": "eea1d04aee638689a99acf66457327b13a4b3f96",
+                        "md5": "b119043b5504991e86a5d7d06734f49b"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 6567117,
+                    "date_published": "2025-11-23T02:14:45.303Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Ddce9ghkG55fY5dJ",
             "pakku_links": [
                 "OjsYMehqACUhUBxE"
