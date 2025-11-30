@@ -1,6 +1,6 @@
 {
-    "name": "Society Sunlit Valley",
-    "version": "3.4.2",
+    "name": "GameNight",
+    "version": "3.0.0",
     "overrides": [
         "config",
         "defaultconfigs",
@@ -134,6 +134,9 @@
         },
         "skillexpnotifier": {
             "side": "BOTH"
+        },
+        "bluemap": {
+            "side": "SERVER"
         }
     }
 }
