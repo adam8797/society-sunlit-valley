@@ -130,13 +130,17 @@
             "side": "CLIENT"
         },
         "waystones": {
-            "side": "BOTH"
+            "side": "BOTH",
+            "export": false
         },
         "skillexpnotifier": {
             "side": "BOTH"
         },
         "bluemap": {
             "side": "SERVER"
+        },
+        "numismatics": {
+            "export": false
         }
     }
 }
