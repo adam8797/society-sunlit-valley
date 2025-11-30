@@ -130,8 +130,7 @@
             "side": "CLIENT"
         },
         "waystones": {
-            "side": "BOTH",
-            "export": false
+            "side": "BOTH"
         },
         "skillexpnotifier": {
             "side": "BOTH"
