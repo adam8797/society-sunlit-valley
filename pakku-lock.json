@@ -2470,6 +2470,47 @@
             ]
         },
         {
+            "pakku_id": "yrXBk6e53FzUZREX",
+            "pakku_links": [
+                "OjsYMehqACUhUBxE"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "createaddition"
+            },
+            "name": {
+                "curseforge": "Create Crafts & Additions"
+            },
+            "id": {
+                "curseforge": "439890"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "createaddition-1.20.1-1.3.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7208/610/createaddition-1.20.1-1.3.3.jar",
+                    "id": "7208610",
+                    "parent_id": "439890",
+                    "hashes": {
+                        "sha1": "c7d464c451fdc2979bc29a67d7eec2a30858af12",
+                        "md5": "1c0d2275ead3e4756d77ac5a86f135ab"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 1577313,
+                    "date_published": "2025-11-10T23:45:16.187Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ShR3DQcIkJWRCRr8",
             "type": "MOD",
             "slug": {
