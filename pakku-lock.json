@@ -3717,49 +3717,6 @@
             ]
         },
         {
-            "pakku_id": "RZNCUXsjaSRORoX9",
-            "pakku_links": [
-                "2hJMe0HQ5kCBC1is"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "drippy-loading-screen"
-            },
-            "name": {
-                "curseforge": "Drippy Loading Screen"
-            },
-            "id": {
-                "curseforge": "511770"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6412/211/drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
-                    "id": "6412211",
-                    "parent_id": "511770",
-                    "hashes": {
-                        "sha1": "ea21436917b84780835b041cd27b7f86679dc6a1",
-                        "md5": "a8cbcca4541cb6eb794ded4a10c57ac9"
-                    },
-                    "required_dependencies": [
-                        "410295",
-                        "367706"
-                    ],
-                    "size": 239365,
-                    "date_published": "2025-04-11T20:29:43.010Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "EMZjAi5TpykS4ZaM",
             "type": "MOD",
             "slug": {
@@ -4829,50 +4786,6 @@
                     "required_dependencies": [],
                     "size": 124212,
                     "date_published": "2025-02-26T21:13:08.110Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "9oROsCUk3uTaFwtn",
-            "pakku_links": [
-                "mlcqONgRxOmCY6El",
-                "2hJMe0HQ5kCBC1is"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "fancymenu"
-            },
-            "name": {
-                "curseforge": "FancyMenu"
-            },
-            "id": {
-                "curseforge": "367706"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "fancymenu_forge_3.7.0_MC_1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6918/987/fancymenu_forge_3.7.0_MC_1.20.1.jar",
-                    "id": "6918987",
-                    "parent_id": "367706",
-                    "hashes": {
-                        "sha1": "f33a40f7d33585e781d90d00d156178e369ae8ed",
-                        "md5": "365e76a8d99085a1ac942c2b46125508"
-                    },
-                    "required_dependencies": [
-                        "410295",
-                        "938643"
-                    ],
-                    "size": 3628603,
-                    "date_published": "2025-08-23T14:52:56.903Z"
                 }
             ]
         },
@@ -6656,43 +6569,6 @@
             ]
         },
         {
-            "pakku_id": "2hJMe0HQ5kCBC1is",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "konkrete"
-            },
-            "name": {
-                "curseforge": "Konkrete [Forge/NeoForge]"
-            },
-            "id": {
-                "curseforge": "410295"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5028/413/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-                    "id": "5028413",
-                    "parent_id": "410295",
-                    "hashes": {
-                        "sha1": "2019d821bed9071daabed43979433a5473ceee49",
-                        "md5": "d69107c593e361e1b7b96733250bd098"
-                    },
-                    "required_dependencies": [],
-                    "size": 625185,
-                    "date_published": "2024-01-13T03:30:23.267Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "JCsFAOuQHQwi2ASm",
             "type": "MOD",
             "slug": {
@@ -7377,45 +7253,6 @@
                     "required_dependencies": [],
                     "size": 32212,
                     "date_published": "2023-09-05T22:51:51.767Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "mlcqONgRxOmCY6El",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "melody"
-            },
-            "name": {
-                "curseforge": "Melody"
-            },
-            "id": {
-                "curseforge": "938643"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5109/692/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-                    "id": "5109692",
-                    "parent_id": "938643",
-                    "hashes": {
-                        "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
-                        "md5": "6b528d368f7fcbf737df28f2457cdec6"
-                    },
-                    "required_dependencies": [],
-                    "size": 37178,
-                    "date_published": "2024-02-15T10:46:05.407Z"
                 }
             ]
         },
