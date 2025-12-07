@@ -555,6 +555,136 @@
                 }
               }
             ]
+          },
+          "mek_osmium_ore": {
+            "operations": [
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "mekanism:osmium_ore"
+                }
+              }
+            ]
+          },
+          "mek_deepslate_osmium_ore": {
+            "operations": [
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "mekanism:deepslate_osmium_ore"
+                }
+              }
+            ]
+          },
+          "mek_uranium_ore": {
+            "operations": [
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "mekanism:uranium_ore"
+                }
+              }
+            ]
+          },
+          "mek_deepslate_uranium_ore": {
+            "operations": [
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "mekanism:deepslate_uranium_ore"
+                }
+              }
+            ]
+          },
+          "mek_tin_ore": {
+            "operations": [
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "mekanism:tin_ore"
+                }
+              }
+            ]
+          },
+          "mek_deepslate_tin_ore": {
+            "operations": [
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "mekanism:deepslate_tin_ore"
+                }
+              }
+            ]
+          },
+          "mek_flourite_ore": {
+            "operations": [
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "mekanism:flourite_ore"
+                }
+              }
+            ]
+          },
+          "mek_deepslate_flourite_ore": {
+            "operations": [
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "mekanism:deepslate_flourite_ore"
+                }
+              }
+            ]
+          },
+          "mek_lead_ore": {
+            "operations": [
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "mekanism:lead_ore"
+                }
+              }
+            ]
+          },
+          "mek_deepslate_lead_ore": {
+            "operations": [
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "mekanism:deepslate_lead_ore"
+                }
+              }
+            ]
           }
         },
         "experience": [
@@ -563,23 +693,23 @@
             "expression": "5"
           },
           {
-            "condition": "!silk_touch & (iron_ore | lapis_ore | alpine_iron_ore | alpine_lapis_ore | alpine_salt_ore)",
+            "condition": "!silk_touch & (iron_ore | lapis_ore | alpine_iron_ore | alpine_lapis_ore | alpine_salt_ore | mek_osmium_ore | mek_tin_ore)",
             "expression": "6"
           },
           {
-            "condition": "!silk_touch & (gold_ore | alpine_gold_ore | redstone_ore | alpine_redstone_ore | zinc_ore)",
+            "condition": "!silk_touch & (gold_ore | alpine_gold_ore | redstone_ore | alpine_redstone_ore | zinc_ore | mek_lead_ore | mek_flourite_ore)",
             "expression": "7"
           },
           {
-            "condition": "!silk_touch & (diamond_ore | emerald_ore | alpine_emerald_ore | alpine_diamond_ore )",
+            "condition": "!silk_touch & (diamond_ore | emerald_ore | alpine_emerald_ore | alpine_diamond_ore | mek_uranium_ore)",
             "expression": "16"
           },
           {
-            "condition": "!silk_touch & (deepslate_coal_ore | deepslate_copper_ore)",
+            "condition": "!silk_touch & (deepslate_coal_ore | deepslate_copper_ore | mek_deepslate_osmium_ore | mek_deepslate_tin_ore)",
             "expression": "6"
           },
           {
-            "condition": "!silk_touch & (deepslate_iron_ore | deepslate_lapis_ore)",
+            "condition": "!silk_touch & (deepslate_iron_ore | deepslate_lapis_ore | mek_deepslate_lead_ore | mek_deepslate_flourite_ore)",
             "expression": "8"
           },
           {
@@ -587,7 +717,7 @@
             "expression": "10"
           },
           {
-            "condition": "!silk_touch & (deepslate_diamond_ore | deepslate_emerald_ore)",
+            "condition": "!silk_touch & (deepslate_diamond_ore | deepslate_emerald_ore | mek_deepslate_uranium_ore)",
             "expression": "20"
           },
           {

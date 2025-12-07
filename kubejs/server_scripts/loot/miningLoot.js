@@ -28,6 +28,16 @@ LootJS.modifiers((e) => {
     "minecraft:deepslate_redstone_ore",
     "minecraft:deepslate_emerald_ore",
     "minecraft:emerald_ore",
+    "mekanism:osmium_ore",
+    "mekanism:deepslate_osmium_ore",
+    "mekanism:uranium_ore",
+    "mekanism:deepslate_uranium_ore",
+    "mekanism:tin_ore",
+    "mekanism:deepslate_tin_ore",
+    "mekanism:flourite_ore",
+    "mekanism:deepslate_flourite_ore",
+    "mekanism:lead_ore",
+    "mekanism:deepslate_lead_ore"
   ];
   overworldOres.forEach((ore) => {
     e.addBlockLootModifier(ore).pool((p) => {
