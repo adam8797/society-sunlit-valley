@@ -338,11 +338,6 @@ global.removedItems = [
   "wildernature:deer_trophy",
   "meadow:wooden_grain_milk_bucket",
   "meadow:wooden_amethyst_milk_bucket",
-  // Removed due to exploits :(
-  "create:schematicannon",
-  "create:empty_schematic",
-  "create:schematic_and_quill",
-  "create:schematic_table",
   // Pipez
   "pipez:energy_pipe",
   "pipez:fluid_pipe",
