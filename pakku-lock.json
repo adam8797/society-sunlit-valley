@@ -3113,6 +3113,42 @@
             ]
         },
         {
+            "pakku_id": "tqXaMf6P4nKCsXAW",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-pattern-schematics"
+            },
+            "name": {
+                "curseforge": "Create: Pattern Schematics"
+            },
+            "id": {
+                "curseforge": "1072349"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_pattern_schematics-1.3.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7207/725/create_pattern_schematics-1.3.3.jar",
+                    "id": "7207725",
+                    "parent_id": "1072349",
+                    "hashes": {
+                        "sha1": "54ad9320a644dbcde87118e82a6dfcc81cd4757b",
+                        "md5": "742c0be1b23004908d08402d13d127c1"
+                    },
+                    "required_dependencies": [],
+                    "size": 220784,
+                    "date_published": "2025-11-10T19:28:23.183Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "JIJ7zwWniSI2I0rQ",
             "type": "MOD",
             "slug": {
